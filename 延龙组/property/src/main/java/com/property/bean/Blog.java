@@ -5,6 +5,7 @@ import java.sql.Timestamp;
 /**
  * @author CJF
  * @category 博客实体类
+ * @author 迟剑锋
  */
 public class Blog {
 	/**
